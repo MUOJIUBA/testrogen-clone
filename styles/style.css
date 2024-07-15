@@ -389,5 +389,17 @@ nav li {
 }
 .thirdcontactb i{
     margin-top: 3px;
-    margin-right: 12px
+    margin-right: 12px;
+}
+.foot {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    margin-top: 0px; 
+    border: 1px solid; 
+    background-color: rgb(2, 2, 54);
+}
+footer div{
+    text-align: center; 
+    margin-top: 40px; 
+    color: white; 
+    line-height: 3.0;
 }
